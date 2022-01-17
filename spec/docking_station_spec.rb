@@ -1,4 +1,4 @@
-require_relative "../lib/DockingStation.rb" 
+require "DockingStation.rb" 
 
 describe DockingStation do
   
